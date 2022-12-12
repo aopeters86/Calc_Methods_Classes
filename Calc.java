@@ -44,12 +44,13 @@ public class Calc {
 	
 	//how to make this say return a string?
 	public int divCalc(int x, int y){
+		
 		if(y != 0) {
 		return x / y;
 		}
 		else {
 		return 0;
-	}
+		}
 
 }
 }
