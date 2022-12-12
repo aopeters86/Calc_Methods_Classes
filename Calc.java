@@ -41,17 +41,26 @@ public class Calc {
 //		
 //	}
 //	
+	
+	//how to make this say return a string?
 	public int divCalc(int x, int y){
 		if(y != 0) {
 		return x / y;
 		}
-		else
-			return "can't divide by 0";
+		else {
+		return 0;
 	}
 
 }
-
+}
 //public static void main(String[] args) {
 //	// TODO Auto-generated method stub
 //	
 //}
+//	public String divCalc(int x, int y){
+//		if(y != 0) {
+//		return (divCalc.parseInt(x) / divCalc.parseInt(y));
+//		}
+//		else
+//		return "can't divide by 0";
+//	}

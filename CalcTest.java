@@ -22,7 +22,7 @@ public class CalcTest {
 //		System.out.print("Calculator 1 is " +calc1);
 		System.out.println("x and y sum = " + calc1.addCalc(1, 1));
 		System.out.println("x and y difference = " + calc1.subCalc(1, 2));
-		System.out.println("x and y quotient = " + calc1.divCalc(1, 2));
+		System.out.println("x and y quotient = " + calc1.divCalc(2, 3));
 		
 		//print if calc is on or off???
 		//System.out.print("Calculator 1 is " +calc1);
