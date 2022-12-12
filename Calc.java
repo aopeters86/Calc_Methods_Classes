@@ -36,11 +36,11 @@ public class Calc {
 	
 		
 	}
-//	
-//	public void multCalc() {
-//		
-//	}
-//	
+	
+	public int multCalc(int x, int y) {
+		return x * y;
+	}
+	
 	
 	//how to make this say return a string?
 	public int divCalc(int x, int y){
